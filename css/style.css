@@ -57,10 +57,61 @@ a {
 }
 
 .a {
+	position: relative;
 	height: 51vh;
-	border: 1px black solid;
+	width: 70vh;
+	overflow: hidden;
 }
 
+.img {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+}
+
+.img1 {
+	background-image: url(../images/w1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	animation: disolveRound 12s linear infinite;
+}
+
+.img2 {
+	background-image: url(../images/m1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	animation: disolveRound 12s linear infinite 4s;
+}
+
+.img3 {
+	background-image: url(../images/k1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	animation: disolveRound 12s linear infinite 8s;
+}
+
+@keyframes disolveRound {
+	0% {
+		opacity: 0;
+	}
+	20% {
+		opacity: 1;
+	}
+	40% {
+		opacity: 1;
+	}
+	60% {
+		opacity: 0;
+		transform: scale(1.1);
+	}
+	100% {
+		transform: scale(1);
+	}
+}
 .b {
 	height: 50vh;
 	display: grid;
@@ -94,5 +145,3 @@ a {
 	font-family: utmavo;
 	color: black;
 }
-
-
