@@ -1,0 +1,98 @@
+body {
+	background-image: url(../images/bg.jpg);
+}
+.header {
+	padding: 10px;
+	border: 5px white solid;
+	text-align: right;
+	font-family: utmavo;
+	color: white;
+}
+
+.w {
+	color: white;
+}
+.m {
+	color: white;
+}
+
+.k {
+	color: white;
+}
+.hl {
+	background-image: url(../images/logo.2.png);
+	background-position: center;
+}
+
+.menu {
+	display: grid;
+	grid-template-columns: 8fr 1fr 1fr 1fr 1fr;
+	text-align: center;
+	font-family: utmavo;
+	font-size: 19px;
+}
+
+li {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+.logo {
+	height: 90vh;
+	background-image: url(../images/logogo.png);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.div3 {
+	height: 51vh;
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+	grid-gap: 15px;
+	margin-top: -75px;
+}
+
+.a {
+	height: 51vh;
+	border: 1px black solid;
+}
+
+.b {
+	height: 50vh;
+	display: grid;
+	grid-template-columns: 2fr 3fr;
+	grid-gap: 10px;
+}
+
+.bb {
+	height: 50vh;
+	border-radius: 50%;
+	background-image: url(../images/me.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	border: 3px white solid;
+}
+
+.bbb {
+	padding: 7px;
+	font-family: GothamLight;
+	text-align: justify;
+	text-indent: 10px;
+	font-size: 20px;
+	border: 1px white solid;
+}
+
+.footer {
+	padding: 10px;
+	border: 5px black solid;
+	text-align: right;
+	font-family: utmavo;
+	color: black;
+}
+
+

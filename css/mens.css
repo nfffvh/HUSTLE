@@ -1,0 +1,258 @@
+body {
+	background-image: url(../images/bg1.jpg);
+}
+
+
+.header {
+	padding: 5px;
+	border: 1px white solid;
+}
+
+.menu {
+	display: grid;
+	grid-template-columns: 8fr 1fr 1fr 1fr;
+	font-family: utmavo;
+	font-size: 20px;
+	text-align: center;
+}
+
+.m {
+	text-align: left;
+}
+
+li {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+.showcase {
+	height: 57vh;
+	display: grid;
+	grid-template-columns: 4fr 5fr;
+	grid-gap: 15px;
+}
+
+.aa {
+	background-image: url(../images/m1.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.aa:hover {
+	background-image: url(../images/hm1.jpeg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.bb {
+	border: 1px white solid;
+}
+
+h1 {
+	font-family: UTMNeutra;
+	font-size: 30px;
+	text-align: center;
+}
+
+h3 {
+	font-family: UTMNeutra;
+	font-size: 21px;
+	text-align: center;
+}
+
+.sctxt {
+	font-family: GothamLight;
+	font-size: 20px;
+	text-align: justify;
+	padding: 10px;
+	margin-top: 10px;
+}
+
+.buttonn {
+	padding: 15px 15px;
+	background-color: white;
+	color: black;
+	margin-left: 550px;
+	font-family: UTMNeutra;
+	font-size: 20px;
+}
+
+.buttonn:hover {
+	background-color: black;
+	color: white;
+}
+.div3 {
+	height: 60vh;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-rows: 6fr 3fr;
+	grid-gap: 15px;
+}
+
+.one {
+	background-image: url(../images/m3.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.one:hover {
+	background-image: url(../images/hm3.jpeg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.two {
+	background-image: url(../images/m4.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.two:hover {
+	background-image: url(../images/hm4.jpeg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.three {
+	background-image: url(../images/m5.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.three:hover {
+	background-image: url(../images/hm5.jpeg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.four {
+	border: 1px white solid;
+}
+
+.five {
+	border: 1px white solid;
+}
+
+.six {
+	border: 1px white solid;
+}
+
+.div4 {
+		height: 60vh;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-rows: 6fr 3fr;
+	grid-gap: 15px;
+}
+
+.seven {
+	background-image: url(../images/m6.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.seven:hover {
+	background-image: url(../images/hm6.jpeg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.eight {
+	background-image: url(../images/m7.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.eight:hover {
+	background-image: url(../images/hm7.jpeg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.nine {
+	background-image: url(../images/m8.jpeg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.nine:hover {
+	background-image: url(../images/hm8.jpeg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.ten {
+	border: 1px white solid;
+}
+
+.eleven {
+	border: 1px white solid;
+}
+
+.twelve {
+	border: 1px white solid;
+}
+.butt {
+	font-family: UTMNeutra;
+	padding: 5px 5px;
+	font-size: 18px;
+	background-color: white;
+	color: black;
+}
+
+.butt:hover {
+	background-color: black;
+	color: white;
+}
+
+.sc2 {
+	height: 60vh;
+	display: grid;
+	grid-template-columns: 4fr 5fr;
+	grid-gap: 15px;
+}
+
+.cc {
+	background-image: url(../images/m2.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.cc:hover {
+	background-image: url(../images/hm2.jpeg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+
+.dd {
+	border: 1px white solid;
+}
+.details1 {
+	font-family: GothamLight;
+	font-size: 21px;
+}
+.footer {
+	padding: 10px;
+	border: 5px black solid;
+	text-align: right;
+	font-family: utmavo;
+	color: black;
+}

@@ -1,0 +1,254 @@
+body {
+	background-image: url(../images/bg1.jpg);
+}
+
+.header {
+	padding: 5px;
+	border: 1px white solid;
+}
+
+.menu {
+	display: grid;
+	grid-template-columns: 8fr 1fr 1fr 1fr;
+	font-family: utmavo;
+	font-size: 20px;
+	text-align: center;
+}
+
+.k {
+	text-align: left;
+}
+
+li {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+.sc1 {
+	height: 65vh;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-rows: 7fr 3fr;
+	grid-gap: 15px;
+}
+
+.one {
+	background-image: url(../images/k1.jpg);
+	background-position: center;;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.two {
+	background-image: url(../images/k2.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.three {
+	background-image: url(../images/k3.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.four {
+	border: 1px white solid;
+}
+
+.five {
+	border: 1px white solid;
+}
+
+.six {
+	border: 1px white solid;
+}
+
+h3 {
+	font-family: UTMNeutra;
+	font-size: 21px;
+	text-align: center;
+}
+.butt {
+	font-family: UTMNeutra;
+	padding: 5px 5px;
+	font-size: 18px;
+	background-color: white;
+	color: black;
+}
+
+.butt:hover {
+	background-color: black;
+	color: white;
+}
+
+.sc2 {
+	height: 65vh;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-rows: 7fr 3fr;
+	grid-gap: 15px;
+}
+
+.seven {
+	background-image: url(../images/k4.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.eight {
+	background-image: url(../images/k5.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.nine {
+	background-image: url(../images/k6.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.ten {
+	border: 1px white solid;
+}
+
+.eleven {
+	border: 1px white solid;
+}
+
+.twelve {
+	border: 1px white solid;
+}
+
+.sc3 {
+	height: 65vh;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-rows: 7fr 3fr;
+	grid-gap: 15px;
+}
+.thirteen {
+	background-image: url(../images/k7.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.fourteen {
+	background-image: url(../images/k8.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.fifteen {
+	background-image: url(../images/k9.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.sixteen {
+	border: 1px white solid;
+}
+
+.seventeen {
+	border: 1px white solid;
+}
+
+.eighteen {
+	border: 1px white solid;
+}
+
+.sc4 {
+	height: 65vh;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-rows: 7fr 3fr;
+	grid-gap: 15px;
+}
+
+.nineteen {
+	background-image: url(../images/k10.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.twenty {
+	background-image: url(../images/k11.jpg);
+	background-position: bottom;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.twentyone {
+	background-image: url(../images/k12.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.twentytwo {
+	border: 1px white solid;
+}
+.twentythree {
+	border: 1px white solid;
+}
+.twentyfour {
+	border: 1px white solid;
+}
+
+.sc5 {
+	height: 65vh;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-rows: 7fr 3fr;
+	grid-gap: 15px;
+}
+
+.twentyfive {
+	background-image: url(../images/k13.jpg);
+	background-position: bottom;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.twentysix {
+	background-image: url(../images/k14.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.twentyseven {
+	background-image: url(../images/k15.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.twentyeight {
+	border: 1px white solid;
+}
+
+.twentynine {
+	border: 1px white solid;
+}
+.thirty {
+	border: 1px white solid;
+}
+.footer {
+	padding: 10px;
+	border: 5px black solid;
+	text-align: right;
+	font-family: utmavo;
+	color: black;
+}

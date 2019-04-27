@@ -1,0 +1,290 @@
+body {
+	background-image: url(../images/bg1.jpg);
+}
+
+.header {
+	padding: 5px;
+	border: 1px white solid;
+}
+
+.menu {
+	display: grid;
+	grid-template-columns: 8fr 1fr 1fr 1fr;
+	font-family: utmavo;
+	font-size: 20px;
+	text-align: center;
+}
+
+.w {
+	text-align: left;
+}
+
+li {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+.showcase {
+	height: 50vh;
+	display: grid;
+	grid-template-columns: 4fr 5fr;
+	grid-gap: 15px;
+}
+
+.aa {
+	background-image: url(../images/w6.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.aa:hover {
+	background-image: url(../images/hw6.jpeg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.bb {
+	border: 1px white solid;
+}
+.details1 {
+	font-family: GothamLight;
+	font-size: 21px;
+}
+.div3 {
+	height: 50vh;
+	display: grid;
+	grid-template-columns: 5fr 4fr;
+	grid-gap: 15px;
+}
+
+.a {
+	font-family: GothamLight;
+	font-size: 21px;
+	border: 1px white solid;
+}
+
+.buttonn {
+	padding: 15px 15px;
+	background-color: white;
+	color: black;
+	margin-left: 550px;
+	font-family: UTMNeutra;
+	font-size: 20px;
+}
+
+.buttonn:hover {
+	background-color: black;
+	color: white;
+}
+
+.b {
+	height: 50vh;
+	background-image: url(../images/sc.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.b:hover {
+	background-image: url(../images/hsc.jpeg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.sc2 {
+	height: 60vh;
+	display: grid;
+	grid-template-columns: 4fr 5fr;
+	grid-gap: 10px;
+}
+
+.d {
+	background-image: url(../images/w1.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.d:hover {
+	background-image: url(../images/hw1.jpeg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.e {
+	padding: 0px;
+	border: 1px white solid;
+}
+
+h1 {
+	font-family: UTMNeutra;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 10px;
+}
+
+.details {
+	font-family: GothamLight;
+	font-size: 21px;
+}
+
+.button {
+	padding: 15px 15px;
+	background-color: white;
+	color: black;
+	margin-left: 565px;
+	font-family: UTMNeutra;
+	font-size: 20px;
+}
+.button:hover {
+	background-color: black;
+	color: white;
+}
+
+.div5 {
+	height: 80vh;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	grid-gap: 15px;
+}
+
+.b1 {
+	grid-template-rows: 2fr 3fr;
+	display: grid;
+	grid-gap: 5px;
+}
+
+.img1 {
+	background-image: url(../images/w2.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.img1:hover {
+	background-image: url(../images/hw2.jpeg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.txt1 {
+	border: 1px white solid;
+}
+
+.butt {
+	font-family: UTMNeutra;
+	padding: 5px 5px;
+	font-size: 18px;
+	background-color: white;
+	color: black;
+}
+
+.butt:hover {
+	background-color: black;
+	color: white;
+}
+.b2 {
+	grid-template-rows: 2fr 3fr;
+	display: grid;
+	grid-gap: 5px;
+}
+
+.img2 {
+	background-image: url(../images/w3.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.img2:hover {
+	background-image: url(../images/hw3.jpeg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.txt2 {
+	border: 1px white solid;
+}
+.det2 {
+	font-family: GothamLight;
+	font-size: 18px;
+	margin-right: 5px;
+}
+h2 {
+	font-family: UTMNeutra;
+	text-align: center;
+}
+.b3 {
+	grid-template-rows: 2fr 3fr;
+	display: grid;
+	grid-gap: 5px;
+}
+
+
+.img3 {
+	background-image: url(../images/w4.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+.img3:hover {
+	background-image: url(../images/hw4.jpeg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.txt3 {
+	border: 1px white solid;
+}
+.det3 {
+	font-family: GothamLight;
+	font-size: 18px;
+	margin-right: 5px;
+}
+.b4 {
+	grid-template-rows: 2fr 3fr;
+	display: grid;
+	grid-gap: 5px;
+}
+
+.img4 {
+	background-image: url(../images/w5.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+.img4:hover {
+	background-image: url(../images/hw5.jpeg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.txt4 {
+	border: 1px white solid;
+}
+
+.det4 {
+	font-family: GothamLight;
+	font-size: 18px;
+	margin-right: 5px;
+}
+.footer {
+	padding: 10px;
+	border: 5px black solid;
+	text-align: right;
+	font-family: utmavo;
+	color: black;
+}
